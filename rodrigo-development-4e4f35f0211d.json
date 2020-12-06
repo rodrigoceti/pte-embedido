@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "rodrigo-development",
+  "private_key_id": "4e4f35f0211dc4b4a8654da5a06ca252b49e72a2",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCupzgTp2tYHqc5\nLVrVIvRhMHkqB6DCUHgDCfB5AuzImzBIxnF+29hE95Tz/OW+orbOiUBfK9ZDi7xH\npJuvpWXjvBMnwLfu000BWU8+vjSfEo7vThytP33SbUm778btTBwAtqwONMp8Rlwx\njR16NtxBc5AtbhPEP2EmrHurqXZRG64NOz4vscxJkT8GTO4s2Vop4njJ9Fxg2x2U\n2JuG7/4oxadjh30fvYtzY6F0YKqi28lGUqUgJt4wm5hVKg3PsHQv39zttS3McK42\niYNfOJ/Yxq9YXrFJHw0XbOHvgP9gYoXKRA1TPLxLq4y6wM/1/V7jeAQGv7WQgjeK\ncRtXyfcbAgMBAAECggEADZGRMjmyBb0P6cnDwkY+bSSKbUD9dMsyn63QgF5BTg58\ncFL2c1AaG7WOXWw63xYeFKqmFR6/PS0oefpoW/uCEHDGnjKDN6sz0tSA6xN03Bzh\nfOb5JF6H5Ga4MUEeF8ZvcIDAmjPwvTnsJK9daGbFstILE/R21arE3e/NhdcbCY73\nkW5MmmiGf4kYEZBOplFRkTBfrK+nO8V1140CXtH0jbAi3/TLLv7hgB6/1oSpe3UO\nwv/FenlpfbQmEJNCobdgFu8SaLqWY/fTQ0FZ9JO8VfsxYi/T3bjFmt9py/Pj4soj\nwYiX2T/9EPWkgLuRRsZolyxd5QtPjb2jzluZOvVqHQKBgQDdXPLiLmf9FZbUVF4X\nygfRi78fQ8q1HcVJgJyCd0PAvf7FkRTzERWubivAgknNi7fRm8+tcNYfOaqkX42l\nCGFh3Q9y+AYg6ho3gTqqXyspC7lwF35605kX34m+nv8OI4g0r7Jr7dGQY5OnZeHp\nt7122YX14p1Pvz4uYc44K/a6bQKBgQDJ+ztCgLDpuP0tS56hXA60dh5HPow0unCg\n0XIG6zQaPTa5/ulX9sUAMOyPwV48Y9C31TkBx1rNvbc32ePyeJ7ZsVt4hpcvwByH\nmSVBb2NFY91jLzeL1PKSNb/brCId897KF/Y/FO3B8cMACVJXbluxWvlEWOr8ADeq\nIT/7gPeCpwKBgDIl/4RMHRTR0kSyBEsBYvoO3bJ4ijCz2OEI+Ov5lujQYiph7swO\nH8pPfSv0mEGvmGotEURqnqeeSdFJMG6l0mH4UaqrE8BbKKtQZHj6bG21EUKan/W1\ngCZPZwY/QOr0E8RT1WjsDKDYXjf7Nc3b6VlGeDm3KApL+gtJ7wz8sL2VAoGAA8mn\nUdbx+mASt1+8qM/+Ipo4dSOSI4b/h7SFy+VrQ7a0KQbDv3eMODWyqft5Ve6VQm1I\nNWVUqZkOL4jxgmGKsRBnY7o6aZXTsyNHFJQPK4T06OBAzWl/5wgFAgyXUzJ4khei\n8Ynl74YmHwENvz/9jjTjicmVFoa2hIU9Gu1PNu8CgYEAsNlwP5S4jhE43LwTX+gU\nWZF9PYd9NfyDUS9TbMOM4XQlichGfxBdcaGIHc1COaPNdPORrgmw3bF45j8kv7o7\nXeV5wFI54V9CLMOIFaLjeWpoiKCNLq/mPo0xSjLXqaG2UGXWKq+TuF9NM/tnlb0q\n9FxtwH2eMfmYBdfPepp39SA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision@rodrigo-development.iam.gserviceaccount.com",
+  "client_id": "105309586327951521982",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision%40rodrigo-development.iam.gserviceaccount.com"
+}
